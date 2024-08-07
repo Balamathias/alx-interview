@@ -1,5 +1,4 @@
 """Just do terminal stuffs"""
-
 import sys
 
 
